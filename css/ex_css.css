@@ -1,0 +1,101 @@
+tr,td,th
+{
+	border: 1px solid;
+	border-radius: 10px;
+}
+
+h2
+{
+	font-family: Century Gothic;
+	font-size: 25px;
+	text-align: center;
+}
+
+p
+{
+	font-family: Century Gothic;
+	font-size: 20px;
+	text-align: center;
+}
+
+li
+{
+	font-size: 25px;
+}
+
+th
+{
+	text-align: center;
+	background-color: #cc6699;
+	color: black;
+	padding: 30px;
+	font-family: Century Gothic;
+
+}
+
+td
+{
+	width: 100%;
+	font-family: century Gothic;
+	text-align: left;
+}
+
+tr
+{
+	background-color: whitesmoke;
+	height: 100px;
+}
+
+			a:link 
+			{
+				color: purple;
+				background-color: transparent;
+				text-decoration: none;
+			}
+			a:visited
+			{
+				color: hotpink;
+				background-color: transparent;
+				text-decoration: none;
+			}
+			a:hover
+			{
+				color: darkred;
+				background-color: none;
+				text-decoration: none;
+			}
+			a:active
+			{
+				color: beige;
+				background-color: transparent;
+				text-decoration: none;
+			}
+
+
+.topnav {
+  background-color: #d98cb3;
+  overflow: hidden;
+}
+
+
+.topnav a {
+  float: left;
+  color: whitesmoke;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: #f2d9e6;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #bf4080;
+  color: white;
+}
+
